@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/angiesk"><img src="https://api.daily.dev/devcards/946fc68691b140d7b902d35aa0a85668.png?r=hxz" width="400" alt="Shivangi's Dev Card"/>
+</a>
 <!--
 **angiesk/angiesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
