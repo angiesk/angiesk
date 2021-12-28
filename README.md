@@ -2,12 +2,17 @@
 
 <a href="https://app.daily.dev/angiesk"><img src="https://api.daily.dev/devcards/946fc68691b140d7b902d35aa0a85668.png?r=hxz" width="400" alt="Shivangi's Dev Card"/>
 </a>
+
+
+#### My Year In Review
+<a href="https://angiesk.wrapped.run">![wrapped_angiesk](https://user-images.githubusercontent.com/18465848/147552611-369d54ed-61ae-4450-9828-d48fda05ddd6.png)</a>
 <!--
 **angiesk/angiesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
