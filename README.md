@@ -21,21 +21,22 @@ Currently, I am learning about building better products for people!
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angiesk&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
-
-#### My Year In Review
+## My Year In Review
 <a href="https://angiesk.wrapped.run">![wrapped_angiesk](https://user-images.githubusercontent.com/18465848/147552611-369d54ed-61ae-4450-9828-d48fda05ddd6.png)</a>
 
+## Repobeats Stats
+![](https://repobeats.axiom.co/api/embed/0d93c17e7bf882a3bb37aef507990aa4deebb4c3.svg)
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shivangi2197) 
+## 💰You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shivangi2197) 
   
-  ---
-![](https://komarev.com/ghpvc/?username=angiesk&label=Visitors+Count&color=brightgreen)
+ ---
+![](https://komarev.com/ghpvc/?username=angiesk&label=Visitors+Count&color=blueviolet)
   
 
